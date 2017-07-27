@@ -1,0 +1,2 @@
+clf_model_path,clf_Xscaler_path,color_space,orient,pix_per_cell,cell_per_block,hog_channel,spatial_size,hist_range_min,hist_range_max,hist_bins,spatial_feat,hist_feat,window
+"../TrainingResults/rbf_YCrCb_(32, 32)_32_(0, 256)_9_8_2_ALL.pkl","../TrainingResults/Scalers/rbf_YCrCb_(32, 32)_32_(0, 256)_9_8_2_ALL_Scaler.pkl",YCrCb,9,8,2,ALL,32,0,256,32,TRUE,TRUE,64
